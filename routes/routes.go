@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"Marketo/controllers"
+	controllers "Marketo/controllers"
 
 	"github.com/gin-gonic/gin"
 )
