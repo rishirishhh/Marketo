@@ -5,6 +5,7 @@ go 1.22.1
 require (
 	github.com/gin-gonic/gin v1.9.1
 	github.com/go-playground/validator/v10 v10.14.0
+	github.com/golang-jwt/jwt v3.2.2+incompatible
 	go.mongodb.org/mongo-driver v1.15.0
 	golang.org/x/crypto v0.17.0
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
